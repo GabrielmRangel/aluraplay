@@ -5,7 +5,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Qual é o melhor hardware para programação com Mario Souto</h3>
                 <p>236 mil visualizações - Há 8 dias</p>
             </div>
@@ -16,7 +16,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Voltando ao mercado após a maternidade: Ana Silvério</h3>
                 <p>618 visualizações - Há 1 mês</p>
             </div>
@@ -27,7 +27,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Mercado de Trabalho | Desmistificando Mobile...</h3>
                 <p>1,1 mil visualizações - Há 1 mês</p>
             </div>
@@ -38,7 +38,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Conhecendo a linguagem Go | Hipsters.Talks</h3>
                 <p>3 mil visualizações - Há 3 meses</p>
             </div>
@@ -49,7 +49,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Desmistificando mobile- Linguagens e Frameworks</h3>
                 <p>1,5 mil visualizações - Há 2 meses</p>
             </div>
@@ -60,7 +60,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Orientação a objetos com Roberta Arcoverde | #Hipster...</h3>
                 <p>30 mil visualizações - Há 3 meses</p>
             </div>
@@ -71,7 +71,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Tire suas dúvidas sobre o bootcamp de Data Science...</h3>
                 <p>1,6 mil visualizações - Transmitido há 6 meses</p>
             </div>
@@ -85,7 +85,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Linguagens e ferramentas usadas em Ciência de Dados...</h3>
                 <p>2,5 mil visualizações - Há 9 dias</p>
             </div>
@@ -96,7 +96,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Reencontrando a paixão por programar: Beatriz Ramerindo</h3>
                 <p>1,2 mil visualizações - Há 1 mês</p>
             </div>
@@ -107,7 +107,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Híbridos: Flutter e React Native | Desmistificando...</h3>
                 <p>1,6 mil visualizações - Há 1 mês</p>
             </div>
@@ -119,7 +119,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Data Science na prática- com Jéssika Ribeiro do Grupo...</h3>
                 <p>3,2 mil visualizações - Há 7 dias</p>
             </div>
@@ -130,7 +130,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>baNaNa | Memes do JavaScript #2</h3>
                 <p>1,2 mil visualizações - Há 5 dias</p>
             </div>
@@ -141,7 +141,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Aniversário da Casa do Código | 10 anos da sua editora de...</h3>
                 <p>1,3 mil visualizações - Há 1 mês</p>
             </div>
@@ -152,7 +152,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Jetpack Compose: Estados e animações</h3>
                 <p>1,6 mil visualizações - Há 8 dias</p>
             </div>
@@ -163,7 +163,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>[Casa do Código] Lançamento do Livro Certificação Linux</h3>
                 <p>1,2 mil visualizações - Há 1 mês</p>
             </div>
@@ -174,7 +174,7 @@ Vídeos da sessão vídeos:
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
+                <img src="./img/videos/alura-canal.png" alt="Logo do canal Alura Cursos Online">
                 <h3>Por que o JavaScript é assim? | Memes JavaScript #01</h3>
                 <p>2,3 mil visualizações - Há 2 dias</p>
             </div>
